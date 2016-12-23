@@ -10,7 +10,7 @@ You can find Command Prompt on the web at https://commandprompt.com
 If you don't want to build the binaries but instead just want to install the
 packages, run this command:
 
-`$ sudo snap install postgresql95-pgpool2_36
+`$ sudo snap install postgresql95-pgpool2_36`
 
 ## Build
 
